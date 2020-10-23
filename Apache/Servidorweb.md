@@ -18,20 +18,18 @@ En aquest cas hem elegit "Others" perque es la primera vegada que utilitzem aque
 
 ![web2](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura de 2020-10-20 16-42-45.png)
 
-A continuació, com podem observar en la imatge,triarem l'opció "Upload your site" per a pujar la nostra web seleccionant la carpeta la carpeta on la tenim guardada i després començarà el procediment de descàrrega d'arxius  a aquest lloc web.
+A continuació, com podem observar en la imatge,triarem l'opció "Upload your site" per a pujar la nostra web seleccionant la carpeta la carpeta "Public_html" que vé configurada en la web i després començarà el procediment de descàrrega d'arxius  a aquest lloc web.
 
-![web3](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura de 2020-10-20 16-59-35.png)
+![web3](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura 2020-10-23 19-21-42.png)
 
 ![web4](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura de 2020-10-20 17-04-10.png)
 
-I finalment, al finalitzar el procediment de pujada d'arxius, ens mostrarà els arxiu que hem pujat. En aquest cas hem pijat la carpeta de "web2" on tenim la nosta pàgina web.
+I finalment una vegada finalitzat aquests, com podem observar en la imatge, entrant en la configuració del lloc web del usuari, aquest lloc web ens proporcionarà un host per si volem ppujar altres arxius i un domini web on estarà la nostra pàgina web
 
-![web5](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura de 2020-10-20 17-18-59.png)
+![web5](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura de 2020-10-21 19-19-08.png)
 
-I finalment una vegada finalitzat aquests, com podem observar en la imatge, entrnant en la configuració del lloc web del usuari, aquest lloc web ens proporcionarà un host i un domini web per a crear-la.
+![web6](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura de 2020-10-23 19-22-08.png)
 
-![web6](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura de 2020-10-21 19-19-08.png)
+I finalment al clicar en el nostre domini, ens apareixerà la nostra web:
 
-I també el estat del nostre domini web:
-
-![web7](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura de 2020-10-20 17-37-40.png)
+![web7](/home/usuari/projectes/IAWTema1/Apache/Imatges/Captura de 2020-10-23 19-22-54.png)
