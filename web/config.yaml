@@ -1,0 +1,13 @@
+baseURL :  "http://example.org/"
+languageCode : "ca-es"
+title : "Pepe Gotera y Otilio Arquitectos"
+theme: "ananke"
+menu:
+  main:
+  - name: Sobre l'empresa
+    url: /about
+    weight: -110
+  - name: Projectes
+    url: /projectes/
+    weight: -100
+

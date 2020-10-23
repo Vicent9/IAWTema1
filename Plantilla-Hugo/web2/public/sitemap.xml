@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/ubicacio/</loc>
+    <lastmod>2020-09-25T17:21:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-09-25T09:09:34+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/carta/</loc>
+    <lastmod>2020-09-25T09:09:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/carta/peixos/</loc>
+    <lastmod>2020-09-25T09:09:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/carta/postres/</loc>
+    <lastmod>2020-09-25T09:08:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/carta/entrants/</loc>
+    <lastmod>2020-09-25T09:07:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/carta/carns/</loc>
+    <lastmod>2020-09-25T09:07:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/carta/arrossos/</loc>
+    <lastmod>2020-09-25T09:07:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2020-09-25T09:04:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

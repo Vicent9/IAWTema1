@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pepe Gotera y Otilio Arquitectos</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Pepe Gotera y Otilio Arquitectos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-es</language>
+    <lastBuildDate>Wed, 23 Sep 2020 18:53:17 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homenatge a Escher</title>
+      <link>http://example.org/projectes/projecte2/</link>
+      <pubDate>Wed, 23 Sep 2020 18:53:17 +0200</pubDate>
+      
+      <guid>http://example.org/projectes/projecte2/</guid>
+      <description>El nostre equip va voler rebre un homenatge a Escher en aquest edifici</description>
+    </item>
+    
+    <item>
+      <title>Parc infantil</title>
+      <link>http://example.org/projectes/projectes1/</link>
+      <pubDate>Wed, 23 Sep 2020 18:52:25 +0200</pubDate>
+      
+      <guid>http://example.org/projectes/projectes1/</guid>
+      <description>Les crítiques sobre aquest parc infantil ens va posar en &amp;ldquo;lo més alt&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Sobre l&#39;empresa</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 23 Sep 2020 18:51:33 +0200</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>La nostra és una xicoteta empresa dedicada al món de la construcció,puntera i amb projectes per tot arreu del món.</description>
+    </item>
+    
+  </channel>
+</rss>

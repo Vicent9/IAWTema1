@@ -1,0 +1,15 @@
+baseURL :  "http://example.org/"
+languageCode : "ca-es"
+title : "Las Essencias Restaurant"
+theme: "basic-hugo"
+menu:
+  main:
+  - name: El Restaurant
+    url: /about
+    weight: -110
+  - name: Carta
+    url: /carta/
+    weight: -100
+  - name: On estem?
+    url: /ubicacio
+    weight: -110
