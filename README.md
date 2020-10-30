@@ -4,11 +4,11 @@ Ací anem a penjar els projectes de la primera unitat de IAW
 
 Fitxer Readme.md en aquest arxiu comentare el que hem penjat en aquest repositori
 
-- Arxiu Activitat2: Inclo una plantilla en HTML i css.
+- Arxiu Activitat2: Inclou una plantilla en HTML i css.
 
-- Carpetta web: Conté la pàgina del restaurant que hem fet amb Hugo.
+- Carpeta web: Conté la pàgina del restaurant que hem fet amb Hugo.
 
-- Carpeta Plantill Hugo/web2: Inclou l'estil que hem personalitzat en la nostra web utilitzant la plantilla de Basic-hugo.
+- Carpeta Plantilla Hugo/web2: Inclou l'estil que hem personalitzat en la nostra web utilitzant la plantilla de Basic-hugo.
 
 - Carpeta Apache: Conté dos documents i una carpeta d'imatges:
 
